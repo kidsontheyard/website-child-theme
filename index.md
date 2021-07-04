@@ -1,7 +1,10 @@
 ## Welcome to Kids on the Yard GitHub Pages
 
 https://kidsontheyard.com/
-[Home](https://kidsontheyard.com)
+
+* [Home](https://kidsontheyard.com)
+
+
 Pre-K and Primary
 Phonics
 Reading
